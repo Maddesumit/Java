@@ -16,5 +16,6 @@ public class Findreverse {
             N=N/10;
         }
         System.out.println(Reverse);
+        System.out.println(Reverse);
     }
 }
